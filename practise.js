@@ -2,6 +2,7 @@
 document.write("Hello");
 // alert("this is my new page");
 console.log("I am from console");
+console.log("I am from console ");
 
 //-------------------------------------------------------------------------------------------------
 //variables
