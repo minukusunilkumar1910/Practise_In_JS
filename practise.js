@@ -246,6 +246,12 @@ let i;
       console.log("20"+"x"+i+"="+i*20);
       
    }
+let i;
+   for(i=0;i<=10;i++)
+   {
+      console.log("20"+"x"+i+"="+i*20);
+      
+   }
    // ---------------------------------------------------------String properties & methods(String handling functions)----------------------------
 
    let string1="sunilkumar";
