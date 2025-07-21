@@ -95,6 +95,7 @@ function hellovijay() {
 }
 
 hellovinay();
+hellovinay();
 hellovijay();
 // -------to overrcome this we use p&a
 const vijay="vijay";
