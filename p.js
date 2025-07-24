@@ -216,6 +216,7 @@
 // }) 
 // console.log(`the result is ${final}`);
 
+
 // // ASSIGNMENT
 // //1
 // let numbers=[10,20,30,40,50,1]
