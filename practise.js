@@ -11,7 +11,6 @@ console.log(value);
 let name ="sunil";
 
  //-------------------------------------------------------------------------------------------------
-
 let adress,zip,state;
 adress="tirupati";
 zip=517507;
