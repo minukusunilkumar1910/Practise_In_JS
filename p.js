@@ -313,7 +313,6 @@ btn.addEventListener('click',()=>
    delbtn.classList.add('remove')
    item.appendChild(delbtn)
 })
-
 let delbtn = document.querySelector('.remove')
 for(dlbtn of delbtn)
 {
@@ -324,3 +323,4 @@ for(dlbtn of delbtn)
       });
       
 }
+
