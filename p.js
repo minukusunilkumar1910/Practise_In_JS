@@ -294,22 +294,22 @@
 // })
    
 
-function factorial(n) {
-    if (n < 0) {
-        return "Factorial not defined for negative numbers.";
-    }
+// function factorial(n) {
+//     if (n < 0) {
+//         return "Factorial not defined for negative numbers.";
+//     }
 
-    let result = 1;
-    for (let i = 2; i <= n; i++) {
-        result *= i;
-    }
+//     let result = 1;
+//     for (let i = 2; i <= n; i++) {
+//         result *= i;
+//     }
 
-    return result;
-}
+//     return result;
+// }
 
-// Example usage
-let number = 5;
-console.log("The factorial of", number, "is", factorial(number));
+// // Example usage
+// let number = 5;
+// console.log("The factorial of", number, "is", factorial(number));
 
                                                    // TODO APP
 
