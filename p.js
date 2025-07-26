@@ -307,7 +307,6 @@
 //     return result;
 // }
 
-// // Example usage
 // let number = 5;
 // console.log("The factorial of", number, "is", factorial(number));
 
